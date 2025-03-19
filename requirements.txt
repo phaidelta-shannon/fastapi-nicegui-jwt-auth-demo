@@ -1,0 +1,11 @@
+# Backend dependencies
+fastapi
+uvicorn
+passlib
+python-jose[cryptography]
+python-multipart
+python-dotenv
+
+# Frontend dependencies
+nicegui
+requests
